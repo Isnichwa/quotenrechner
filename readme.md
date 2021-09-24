@@ -6,8 +6,8 @@ Eine Andoird- Native App die zur Berechnung des nächstliegend höhere Einsatz d
 
 <table>
   <tr>
-    <td>First Screen Page</td>
-     <td>Holiday Mention</td>
+    <td>Sartbildschirm</td>
+     <td>Berechnung</td>
   </tr>
   <tr>
     <td><img src="https://user-images.githubusercontent.com/58815086/134701788-924328b5-9133-4c96-8c5a-14c89f90fbc4.png"></td>
