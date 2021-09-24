@@ -1,0 +1,19 @@
+<lint-module
+    format="1"
+    dir="/home/isnichwa/AndroidStudioProjects/Quotenrechner/app"
+    name=":app"
+    type="APP"
+    maven="Quotenrechner:app:"
+    gradle="7.0.1"
+    buildFolder="build"
+    bootClassPath="/home/isnichwa/Android/Sdk/platforms/android-31/android.jar:/home/isnichwa/Android/Sdk/build-tools/30.0.2/core-lambda-stubs.jar"
+    javaSourceLevel="1.8"
+    compileTarget="android-31"
+    neverShrinking="true">
+  <lintOptions
+      abortOnError="true"
+      absolutePaths="true"
+      checkReleaseBuilds="true"
+      explainIssues="true"/>
+  <variant name="release"/>
+</lint-module>

@@ -1,0 +1,179 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/isnichwa/AndroidStudioProjects/Quotenrechner/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /home/isnichwa/AndroidStudioProjects/Quotenrechner/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /home/isnichwa/AndroidStudioProjects/Quotenrechner/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /home/isnichwa/AndroidStudioProjects/Quotenrechner/app/src/main/AndroidManifest.xml:2:1-23:12
+MERGED from [androidx.core:core-ktx:1.3.2] /home/isnichwa/.gradle/caches/transforms-3/a69e96f4d5ae83761de5607fac65364a/transformed/jetified-core-ktx-1.3.2/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.material:material:1.3.0] /home/isnichwa/.gradle/caches/transforms-3/2f068645d48754d46cf1ebed5c34ebc8/transformed/material-1.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /home/isnichwa/.gradle/caches/transforms-3/ea187a32d8b1b8062d7d9c4224699100/transformed/constraintlayout-2.0.4/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] /home/isnichwa/.gradle/caches/transforms-3/4a697a7e311e0d454db15ce0250c9c6d/transformed/appcompat-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/isnichwa/.gradle/caches/transforms-3/c9334cbec7433ae54388a2f3b959aeca/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.1.0] /home/isnichwa/.gradle/caches/transforms-3/e18a2580967f59a4924fe8270e154724/transformed/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /home/isnichwa/.gradle/caches/transforms-3/fc4ec9a7459c67a242c6bf5586b4b05c/transformed/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/isnichwa/.gradle/caches/transforms-3/cd8cd19e52c47a9c87d35043479be476/transformed/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/isnichwa/.gradle/caches/transforms-3/a6a04364ce50ed0f5d079875b9086cd9/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/isnichwa/.gradle/caches/transforms-3/b48334fa86f17520fe32962a89d8c001/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] /home/isnichwa/.gradle/caches/transforms-3/a8fdcb6042de6447107e7519d90bbd89/transformed/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/isnichwa/.gradle/caches/transforms-3/e7c08ca5ced8fab86b370ebbc176df66/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/isnichwa/.gradle/caches/transforms-3/fad6394bbd44e680bb4ddcbb2cbcdab2/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/isnichwa/.gradle/caches/transforms-3/9e91eb8d975682c7951df606becabb0f/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/isnichwa/.gradle/caches/transforms-3/07941aa37fef2ce6f7fc65e75b99244c/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/isnichwa/.gradle/caches/transforms-3/045e16e2624993503834c954c5c3ea7b/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] /home/isnichwa/.gradle/caches/transforms-3/336907eb435a48db79d5e245d9ef937d/transformed/jetified-activity-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/isnichwa/.gradle/caches/transforms-3/f00679086e4cc36d002778a4ab89006e/transformed/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] /home/isnichwa/.gradle/caches/transforms-3/7c1421e0c9cf10a4a3665694546fadc9/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.3.2] /home/isnichwa/.gradle/caches/transforms-3/3f0141c87382d337d36e77c807363a0f/transformed/core-1.3.2/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/isnichwa/.gradle/caches/transforms-3/40b55b769dfd7cf7ab0e8c016ba8d37b/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /home/isnichwa/.gradle/caches/transforms-3/669d7c860d54344646f9dbf62ed52042/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/isnichwa/.gradle/caches/transforms-3/766dcf879b4e20fa7cef5faa55a40733/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /home/isnichwa/.gradle/caches/transforms-3/6a088d0d31eaa4a38f1809af23933cd1/transformed/lifecycle-runtime-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/isnichwa/.gradle/caches/transforms-3/3be940dbdcb393aa25ecc4fb8803353e/transformed/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/isnichwa/.gradle/caches/transforms-3/543eccf0df4dcec8c90513f754da5308/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/isnichwa/.gradle/caches/transforms-3/7bddefcf65f31fd4daa9ca35afbcc4b7/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/isnichwa/.gradle/caches/transforms-3/8c636e676f7a5cdf79b12e25b7f58b52/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/isnichwa/.gradle/caches/transforms-3/708f788ecadbc0a7ec3db72b2a8f335f/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /home/isnichwa/.gradle/caches/transforms-3/00ad26f294d29e2826f3ba551180c094/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/isnichwa/.gradle/caches/transforms-3/b2337a9424c07bf09ac5548f4b644b7f/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/isnichwa/.gradle/caches/transforms-3/f55155ff79e2508959d686fb1349b148/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/isnichwa/.gradle/caches/transforms-3/bde07fabdbe66080b60f0ce04d40d892/transformed/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /home/isnichwa/.gradle/caches/transforms-3/1ee2f71743a0c6c276436ab85f86c8cb/transformed/jetified-annotation-experimental-1.0.0/AndroidManifest.xml:17:1-24:12
+INJECTED from /home/isnichwa/AndroidStudioProjects/Quotenrechner/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /home/isnichwa/AndroidStudioProjects/Quotenrechner/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /home/isnichwa/AndroidStudioProjects/Quotenrechner/app/src/main/AndroidManifest.xml:2:1-23:12
+	package
+		ADDED from /home/isnichwa/AndroidStudioProjects/Quotenrechner/app/src/main/AndroidManifest.xml:3:5-39
+		INJECTED from /home/isnichwa/AndroidStudioProjects/Quotenrechner/app/src/main/AndroidManifest.xml
+		INJECTED from /home/isnichwa/AndroidStudioProjects/Quotenrechner/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/isnichwa/AndroidStudioProjects/Quotenrechner/app/src/main/AndroidManifest.xml
+		ADDED from /home/isnichwa/AndroidStudioProjects/Quotenrechner/app/src/main/AndroidManifest.xml:2:1-23:12
+		INJECTED from /home/isnichwa/AndroidStudioProjects/Quotenrechner/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/isnichwa/AndroidStudioProjects/Quotenrechner/app/src/main/AndroidManifest.xml
+		ADDED from /home/isnichwa/AndroidStudioProjects/Quotenrechner/app/src/main/AndroidManifest.xml:2:1-23:12
+		INJECTED from /home/isnichwa/AndroidStudioProjects/Quotenrechner/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/isnichwa/AndroidStudioProjects/Quotenrechner/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /home/isnichwa/AndroidStudioProjects/Quotenrechner/app/src/main/AndroidManifest.xml:5:5-21:19
+MERGED from [com.google.android.material:material:1.3.0] /home/isnichwa/.gradle/caches/transforms-3/2f068645d48754d46cf1ebed5c34ebc8/transformed/material-1.3.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.3.0] /home/isnichwa/.gradle/caches/transforms-3/2f068645d48754d46cf1ebed5c34ebc8/transformed/material-1.3.0/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /home/isnichwa/.gradle/caches/transforms-3/ea187a32d8b1b8062d7d9c4224699100/transformed/constraintlayout-2.0.4/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /home/isnichwa/.gradle/caches/transforms-3/ea187a32d8b1b8062d7d9c4224699100/transformed/constraintlayout-2.0.4/AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.3.2] /home/isnichwa/.gradle/caches/transforms-3/3f0141c87382d337d36e77c807363a0f/transformed/core-1.3.2/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.2] /home/isnichwa/.gradle/caches/transforms-3/3f0141c87382d337d36e77c807363a0f/transformed/core-1.3.2/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/isnichwa/.gradle/caches/transforms-3/766dcf879b4e20fa7cef5faa55a40733/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/isnichwa/.gradle/caches/transforms-3/766dcf879b4e20fa7cef5faa55a40733/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.3.2] /home/isnichwa/.gradle/caches/transforms-3/3f0141c87382d337d36e77c807363a0f/transformed/core-1.3.2/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /home/isnichwa/AndroidStudioProjects/Quotenrechner/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /home/isnichwa/AndroidStudioProjects/Quotenrechner/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /home/isnichwa/AndroidStudioProjects/Quotenrechner/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /home/isnichwa/AndroidStudioProjects/Quotenrechner/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /home/isnichwa/AndroidStudioProjects/Quotenrechner/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /home/isnichwa/AndroidStudioProjects/Quotenrechner/app/src/main/AndroidManifest.xml:11:9-51
+activity#com.csnile.quotenrechner.MainActivity
+ADDED from /home/isnichwa/AndroidStudioProjects/Quotenrechner/app/src/main/AndroidManifest.xml:12:9-20:20
+	android:exported
+		ADDED from /home/isnichwa/AndroidStudioProjects/Quotenrechner/app/src/main/AndroidManifest.xml:14:13-36
+	android:name
+		ADDED from /home/isnichwa/AndroidStudioProjects/Quotenrechner/app/src/main/AndroidManifest.xml:13:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/isnichwa/AndroidStudioProjects/Quotenrechner/app/src/main/AndroidManifest.xml:15:13-19:29
+action#android.intent.action.MAIN
+ADDED from /home/isnichwa/AndroidStudioProjects/Quotenrechner/app/src/main/AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from /home/isnichwa/AndroidStudioProjects/Quotenrechner/app/src/main/AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/isnichwa/AndroidStudioProjects/Quotenrechner/app/src/main/AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from /home/isnichwa/AndroidStudioProjects/Quotenrechner/app/src/main/AndroidManifest.xml:18:27-74
+uses-sdk
+INJECTED from /home/isnichwa/AndroidStudioProjects/Quotenrechner/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/isnichwa/AndroidStudioProjects/Quotenrechner/app/src/main/AndroidManifest.xml
+INJECTED from /home/isnichwa/AndroidStudioProjects/Quotenrechner/app/src/main/AndroidManifest.xml
+MERGED from [androidx.core:core-ktx:1.3.2] /home/isnichwa/.gradle/caches/transforms-3/a69e96f4d5ae83761de5607fac65364a/transformed/jetified-core-ktx-1.3.2/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.3.2] /home/isnichwa/.gradle/caches/transforms-3/a69e96f4d5ae83761de5607fac65364a/transformed/jetified-core-ktx-1.3.2/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.material:material:1.3.0] /home/isnichwa/.gradle/caches/transforms-3/2f068645d48754d46cf1ebed5c34ebc8/transformed/material-1.3.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.3.0] /home/isnichwa/.gradle/caches/transforms-3/2f068645d48754d46cf1ebed5c34ebc8/transformed/material-1.3.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /home/isnichwa/.gradle/caches/transforms-3/ea187a32d8b1b8062d7d9c4224699100/transformed/constraintlayout-2.0.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /home/isnichwa/.gradle/caches/transforms-3/ea187a32d8b1b8062d7d9c4224699100/transformed/constraintlayout-2.0.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] /home/isnichwa/.gradle/caches/transforms-3/4a697a7e311e0d454db15ce0250c9c6d/transformed/appcompat-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] /home/isnichwa/.gradle/caches/transforms-3/4a697a7e311e0d454db15ce0250c9c6d/transformed/appcompat-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/isnichwa/.gradle/caches/transforms-3/c9334cbec7433ae54388a2f3b959aeca/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/isnichwa/.gradle/caches/transforms-3/c9334cbec7433ae54388a2f3b959aeca/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /home/isnichwa/.gradle/caches/transforms-3/e18a2580967f59a4924fe8270e154724/transformed/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /home/isnichwa/.gradle/caches/transforms-3/e18a2580967f59a4924fe8270e154724/transformed/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /home/isnichwa/.gradle/caches/transforms-3/fc4ec9a7459c67a242c6bf5586b4b05c/transformed/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /home/isnichwa/.gradle/caches/transforms-3/fc4ec9a7459c67a242c6bf5586b4b05c/transformed/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/isnichwa/.gradle/caches/transforms-3/cd8cd19e52c47a9c87d35043479be476/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/isnichwa/.gradle/caches/transforms-3/cd8cd19e52c47a9c87d35043479be476/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/isnichwa/.gradle/caches/transforms-3/a6a04364ce50ed0f5d079875b9086cd9/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/isnichwa/.gradle/caches/transforms-3/a6a04364ce50ed0f5d079875b9086cd9/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/isnichwa/.gradle/caches/transforms-3/b48334fa86f17520fe32962a89d8c001/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/isnichwa/.gradle/caches/transforms-3/b48334fa86f17520fe32962a89d8c001/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] /home/isnichwa/.gradle/caches/transforms-3/a8fdcb6042de6447107e7519d90bbd89/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /home/isnichwa/.gradle/caches/transforms-3/a8fdcb6042de6447107e7519d90bbd89/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/isnichwa/.gradle/caches/transforms-3/e7c08ca5ced8fab86b370ebbc176df66/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/isnichwa/.gradle/caches/transforms-3/e7c08ca5ced8fab86b370ebbc176df66/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/isnichwa/.gradle/caches/transforms-3/fad6394bbd44e680bb4ddcbb2cbcdab2/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/isnichwa/.gradle/caches/transforms-3/fad6394bbd44e680bb4ddcbb2cbcdab2/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/isnichwa/.gradle/caches/transforms-3/9e91eb8d975682c7951df606becabb0f/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/isnichwa/.gradle/caches/transforms-3/9e91eb8d975682c7951df606becabb0f/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/isnichwa/.gradle/caches/transforms-3/07941aa37fef2ce6f7fc65e75b99244c/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/isnichwa/.gradle/caches/transforms-3/07941aa37fef2ce6f7fc65e75b99244c/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/isnichwa/.gradle/caches/transforms-3/045e16e2624993503834c954c5c3ea7b/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/isnichwa/.gradle/caches/transforms-3/045e16e2624993503834c954c5c3ea7b/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] /home/isnichwa/.gradle/caches/transforms-3/336907eb435a48db79d5e245d9ef937d/transformed/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /home/isnichwa/.gradle/caches/transforms-3/336907eb435a48db79d5e245d9ef937d/transformed/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/isnichwa/.gradle/caches/transforms-3/f00679086e4cc36d002778a4ab89006e/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/isnichwa/.gradle/caches/transforms-3/f00679086e4cc36d002778a4ab89006e/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] /home/isnichwa/.gradle/caches/transforms-3/7c1421e0c9cf10a4a3665694546fadc9/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/isnichwa/.gradle/caches/transforms-3/7c1421e0c9cf10a4a3665694546fadc9/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.3.2] /home/isnichwa/.gradle/caches/transforms-3/3f0141c87382d337d36e77c807363a0f/transformed/core-1.3.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.2] /home/isnichwa/.gradle/caches/transforms-3/3f0141c87382d337d36e77c807363a0f/transformed/core-1.3.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/isnichwa/.gradle/caches/transforms-3/40b55b769dfd7cf7ab0e8c016ba8d37b/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/isnichwa/.gradle/caches/transforms-3/40b55b769dfd7cf7ab0e8c016ba8d37b/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/isnichwa/.gradle/caches/transforms-3/669d7c860d54344646f9dbf62ed52042/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/isnichwa/.gradle/caches/transforms-3/669d7c860d54344646f9dbf62ed52042/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/isnichwa/.gradle/caches/transforms-3/766dcf879b4e20fa7cef5faa55a40733/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/isnichwa/.gradle/caches/transforms-3/766dcf879b4e20fa7cef5faa55a40733/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /home/isnichwa/.gradle/caches/transforms-3/6a088d0d31eaa4a38f1809af23933cd1/transformed/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /home/isnichwa/.gradle/caches/transforms-3/6a088d0d31eaa4a38f1809af23933cd1/transformed/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/isnichwa/.gradle/caches/transforms-3/3be940dbdcb393aa25ecc4fb8803353e/transformed/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/isnichwa/.gradle/caches/transforms-3/3be940dbdcb393aa25ecc4fb8803353e/transformed/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/isnichwa/.gradle/caches/transforms-3/543eccf0df4dcec8c90513f754da5308/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/isnichwa/.gradle/caches/transforms-3/543eccf0df4dcec8c90513f754da5308/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/isnichwa/.gradle/caches/transforms-3/7bddefcf65f31fd4daa9ca35afbcc4b7/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/isnichwa/.gradle/caches/transforms-3/7bddefcf65f31fd4daa9ca35afbcc4b7/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/isnichwa/.gradle/caches/transforms-3/8c636e676f7a5cdf79b12e25b7f58b52/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/isnichwa/.gradle/caches/transforms-3/8c636e676f7a5cdf79b12e25b7f58b52/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/isnichwa/.gradle/caches/transforms-3/708f788ecadbc0a7ec3db72b2a8f335f/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/isnichwa/.gradle/caches/transforms-3/708f788ecadbc0a7ec3db72b2a8f335f/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/isnichwa/.gradle/caches/transforms-3/00ad26f294d29e2826f3ba551180c094/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/isnichwa/.gradle/caches/transforms-3/00ad26f294d29e2826f3ba551180c094/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/isnichwa/.gradle/caches/transforms-3/b2337a9424c07bf09ac5548f4b644b7f/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/isnichwa/.gradle/caches/transforms-3/b2337a9424c07bf09ac5548f4b644b7f/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/isnichwa/.gradle/caches/transforms-3/f55155ff79e2508959d686fb1349b148/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/isnichwa/.gradle/caches/transforms-3/f55155ff79e2508959d686fb1349b148/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/isnichwa/.gradle/caches/transforms-3/bde07fabdbe66080b60f0ce04d40d892/transformed/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/isnichwa/.gradle/caches/transforms-3/bde07fabdbe66080b60f0ce04d40d892/transformed/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /home/isnichwa/.gradle/caches/transforms-3/1ee2f71743a0c6c276436ab85f86c8cb/transformed/jetified-annotation-experimental-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /home/isnichwa/.gradle/caches/transforms-3/1ee2f71743a0c6c276436ab85f86c8cb/transformed/jetified-annotation-experimental-1.0.0/AndroidManifest.xml:20:5-22:41
+INJECTED from /home/isnichwa/AndroidStudioProjects/Quotenrechner/app/src/main/AndroidManifest.xml
+INJECTED from /home/isnichwa/AndroidStudioProjects/Quotenrechner/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/isnichwa/AndroidStudioProjects/Quotenrechner/app/src/main/AndroidManifest.xml
+		ADDED from /home/isnichwa/AndroidStudioProjects/Quotenrechner/app/src/main/AndroidManifest.xml
+		INJECTED from /home/isnichwa/AndroidStudioProjects/Quotenrechner/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/isnichwa/AndroidStudioProjects/Quotenrechner/app/src/main/AndroidManifest.xml
+		ADDED from /home/isnichwa/AndroidStudioProjects/Quotenrechner/app/src/main/AndroidManifest.xml
+		INJECTED from /home/isnichwa/AndroidStudioProjects/Quotenrechner/app/src/main/AndroidManifest.xml
