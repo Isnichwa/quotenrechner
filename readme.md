@@ -1,3 +1,3 @@
 # quotenrechner
 
-Eine App womit man berechnen kann, was der nächstliegend höhere Einsatz ist, um bei einer Wette mit einer bestimmten Auszahlungsquote einen "Glatten" Gewinn zu erhalten.
+Eine Andoird- Native App die zur Berechnung des nächstliegend höhere Einsatz dient, den man ausgehend von einem bestimmten ursprünglichen Einsatz bei einer Wette mit einer bestimmten Auszahlungsquote tätigen muss einen "Glatten" Gewinn zu erhalten.
